@@ -1,0 +1,16 @@
+.TabelaProdutos{
+   width: 100%;
+   border: solid 1px rgb(42, 110, 21);
+   
+}
+
+.TabelaProdutos th{
+    background-color:rgb(50, 110, 77);
+    border: solid 1px rgb(255, 255, 255);
+}
+
+.TabelaProdutos td{
+    padding: 10px;
+    background-color:rgb(187, 123, 44);
+    border: solid 1px rgb(255, 255, 255);
+}
